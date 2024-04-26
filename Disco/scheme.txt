@@ -1,0 +1,3 @@
+r1#PassengerId#int64#Survived#int64#Pclass#int64#Name#object#Sex#object#Age#float64#SibSp#int64#Parch#int64#Ticket#object#Fare#float64#Cabin#object#Embarked#object
+50#0#3#"Arnold-Franchi, Mrs. Josef (Josefine Franchi)"#female#18#1#0#349237#17.8#0#S
+r2##object#"Patrick C"#int64#"Heather"#int64#"Bryan"#int64#"Patrick T"#int64#"Thomas"#int64#"aaron"#int64#"vanessa"#int64#"greg"#int64#"brian"#int64#"ben"#int64#"Katherine"#int64#"Jonathan"#int64#"Zwe"#int64#"Erin"#int64#"Chris"#int64#"Zak"#int64#"Matt"#int64#"Chris"#int64#"Josh"#int64#"Amy"#int64#"Valerie"#int64#"Gary"#int64#"Stephen"#int64#"Jessica"#int64#"Jeff"#int64
